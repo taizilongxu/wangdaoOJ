@@ -1,4 +1,4 @@
 wangdaoOJ
 =========
 ac.jobdu.com
-![image](https://github.com/taizilongxu/wangdaoOJ/chart.png)
+![image](https://raw.githubusercontent.com/taizilongxu/wangdaoOJ/master/chart.png)
